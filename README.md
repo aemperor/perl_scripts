@@ -1,4 +1,4 @@
-perl_projects
+perl_scripts
 =============
 
 <h3>wordfreq</h3><hr>
