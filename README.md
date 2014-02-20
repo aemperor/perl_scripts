@@ -4,7 +4,7 @@ perl_projects
 <h3>wordfreq</h3><hr>
 Overview: Word frequency calculator <br>
 Language: perl <br>
-Code Source: wordfreq
+Code Source: wordfreq <br>
 Running Instructions: "./wordfreq.pl ppj.txt" <br>
 Working Code: True <br>
 Misc: <br>
